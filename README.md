@@ -1,0 +1,2 @@
+# LearnMongo
+How mongo works 
